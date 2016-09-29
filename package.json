@@ -1,0 +1,22 @@
+{
+  "name": "julesnodetest",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianamariemorales/nodemoduletest.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Juliana Marie Morales <julianamariem@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianamariemorales/nodemoduletest/issues"
+  },
+  "homepage": "https://github.com/julianamariemorales/nodemoduletest#readme"
+}
